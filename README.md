@@ -1,9 +1,6 @@
 # DBMS-LAB
 Database Management Systems Lab
 This repository contains all the experiments for the Database Management Systems Lab course. The experiments are designed to enhance understanding of key DBMS concepts, including SQL, NoSQL, ER modeling, normalization, indexing, and more. Below is the list of experiments included in this repository
-## Experiment 10
-Title: Advanced View Creation
-Description: Create views on the COMPANY database to simplify and organize data analysis.
 ## Experiment 11 
 Title: Indexing Concepts
 Description: Implement indexes on database columns to optimize query performance.
